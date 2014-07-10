@@ -10,6 +10,7 @@ Then how can we get out of this annoying situation. A <a href="http://www.scoop.
 
 <strong>Know More Detail:</strong><br /><br />
 <a href="https://sites.google.com/site/dnsservernotresponding/">how to fix the dns server</a><br /><br />
+<a href="http://blog.getspool.com/185/fix-dns-server-not-responding-error/">how to resolve dns server problem</a><br /><br />
 
 <strong>Let’s see how to use it?</strong><br /><br />
 
